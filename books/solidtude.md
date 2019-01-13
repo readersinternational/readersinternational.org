@@ -1,4 +1,6 @@
 ---
+title: Solitude
+cover: /assets/solitude.jpg
 permalink: /solitude
 ---
 Solidtude
