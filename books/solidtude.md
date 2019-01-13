@@ -3,6 +3,6 @@ title: Solitude
 cover: /assets/images/solitude.jpg
 permalink: /solitude
 ---
-Solidtude
+{{ page.title }}
 
-![Solitude]({% page.cover %})
+![{{ page.title }}]({{ page.cover}})

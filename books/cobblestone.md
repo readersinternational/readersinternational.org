@@ -3,6 +3,6 @@ title: Cobblestone
 cover: /assets/images/cobblestone.jpg
 permalink: /cobblestone
 ---
-{% page.title %}
+{{ page.title }}
 
-![Solitude]({% page.cover %})
+![{{ page.title }}]({{ page.cover}})
