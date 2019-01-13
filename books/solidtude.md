@@ -1,8 +1,8 @@
 ---
 title: Solitude
-cover: /assets/solitude.jpg
+cover: /assets/images/solitude.jpg
 permalink: /solitude
 ---
 Solidtude
 
-![Solitude](/assets/solitude.jpg)
+![Solitude]({% page.cover %})
