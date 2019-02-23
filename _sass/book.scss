@@ -1,0 +1,23 @@
+// Styles used for the individual book pages.
+.book {
+    display: flex;
+    flex-direction: row;
+
+    .cover {
+        margin-right: 2rem;
+        min-width: 300px;
+
+        img {
+            border: 1px solid #00000020;
+            max-width: 100%;
+        }
+    }
+
+    .title {
+        margin-bottom: 1rem;
+    }
+
+    .book-content {
+        margin-top: 2rem;
+    }
+}

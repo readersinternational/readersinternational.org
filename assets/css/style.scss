@@ -1,0 +1,65 @@
+---
+---
+
+// Import styles for each of the layouts. This will be compiled down to a single
+// css file during serving.
+@import 'book';
+@import 'books';
+
+// Common styles that apply to all parts of the site.
+body, h1, p {
+    font-family: 'Roboto', sans-serif;    
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #394f9b;
+    text-decoration: none;
+}
+
+.header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0 0 2rem 0;
+
+    a {
+        color: #000;
+    }
+}
+
+.page {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    .header,
+    .content,
+    .footer {
+        width: 1000px;
+    }    
+}
+
+
+.regions {
+    font-size: 1.2rem;
+
+    a, a:active, a:visited {
+        color: #000;
+        text-decoration: none;
+    }
+
+    a:hover {
+        border-bottom: 3px solid black;
+    }
+}
+
+.footer {
+    border-top: 1px solid #000;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+
+    .copyright {
+        font-size: 0.9rem;
+    }
+}

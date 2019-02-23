@@ -1,0 +1,30 @@
+{% include header.html %}
+
+<div class="book">
+    <div class="cover">
+        <img src="{{ page.cover}}" />
+    </div>
+    <div class="details">
+        <h1 class="title">{{ page.title }}</h1>
+        {{ page.author}}<br>
+        {{ page.translation }}<br>
+        ISBN {{ page.isbn_physical}}<br>
+        {% if page.isbn_ebook %}
+        ISBN {{ page.isbn_ebook }}<br>
+        {% endif %}
+
+        {% if page.goodreads %}
+            <a href="{{ page.goodreads }}" target="_blank">Reviews on Goodreads.com</a><br>
+        {% endif %}
+
+        {% if page.amazon %}
+            <a href="{{ page.amazon }}" target="_blank">E-Book now available</a><br>
+        {% endif %}
+        
+        <div class="book-content">
+            {{content}}
+        </div>
+        
+    </div>
+</div>
+{% include footer.html %}

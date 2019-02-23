@@ -1,0 +1,44 @@
+{% include header.html %}
+
+<h1>Books</h1>
+<a class="anchor" id="europe"></a>
+<h2>Europe</h2>
+<div class="region">
+  {% for book in site.books %}
+    {% if book.region == "europe" %}
+      {% include book.html book=book %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a class="anchor" id="latam"></a>
+<h2 id="latam">Latin America & Caribbean</h2>
+<div class="region">
+  {% for book in site.books %}
+    {% if book.region == "latam" %}
+      {% include book.html book=book %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a class="anchor" id="africa"></a>
+<h2 id="africa">Africa</h2>
+<div class="region">
+  {% for book in site.books %}
+    {% if book.region == "africa" %}
+      {% include book.html book=book %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a class="anchor" id="asia"></a>
+<h2 id="asia">Asia</h2>
+<div class="region">
+  {% for book in site.books %}
+    {% if book.region == "asia" %}
+      {% include book.html book=book %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% include footer.html %}

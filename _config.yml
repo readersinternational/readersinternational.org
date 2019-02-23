@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 collections:
-  - books
+  books:
+    output: true
+    permalink: /:name
+
+sass:
+  sass_dir: _sass

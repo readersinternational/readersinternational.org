@@ -1,4 +1,4 @@
 ---
-layout: booklist
+layout: books
 permalink: /books
 ---
