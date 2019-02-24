@@ -1,4 +1,6 @@
 // Styles used for the individual book pages.
+@import 'common';
+
 .book {
     display: flex;
     flex-direction: row;
@@ -14,10 +16,11 @@
     }
 
     .title {
-        margin-bottom: 1rem;
+        padding-bottom: $common-padding;
+        margin-top: 0;
     }
 
     .book-content {
-        margin-top: 2rem;
+        padding-top: $common-padding;
     }
 }

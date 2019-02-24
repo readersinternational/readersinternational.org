@@ -1,0 +1,14 @@
+// Common padding used for spacing out horizontal elements
+$common-padding: 0.5rem;
+
+// Offset used to make sure that links to the regions with the floating header
+// are not hidden behind the header.
+$header-offset: 120px;
+
+$region-offset: 90px;
+
+// Width of a default page.
+$page-width: 1000px;
+
+// Used for borders at the top and bottom of the page.
+$thick-border: 4px;

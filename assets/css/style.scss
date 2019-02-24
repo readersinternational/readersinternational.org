@@ -5,6 +5,7 @@
 // css file during serving.
 @import 'book';
 @import 'books';
+@import 'common';
 
 // Common styles that apply to all parts of the site.
 body, h1, p {
@@ -19,12 +20,25 @@ a {
 }
 
 .header {
+    border-bottom: $thick-border solid #000;
     font-size: 2rem;
     font-weight: bold;
-    margin: 0 0 2rem 0;
+    margin: 0 0 0.5rem 0;
+    padding-bottom: $common-padding;
 
     a {
+        padding: 1px 4px;
         color: #000;
+    }
+
+    h1 {
+        margin-bottom: -5px;
+        margin-left: -7px;
+        
+        @media only screen and (max-width: $page-width) {
+            font-size: 1.5rem;
+        }
+
     }
 }
 
@@ -36,28 +50,52 @@ a {
     .header,
     .content,
     .footer {
-        width: 1000px;
-    }    
+        width: $page-width;
+    }
+
+    .header {
+        background: #fff;
+        position: fixed;
+        z-index:99;
+    }
+
+    .content {
+        padding-top: $header-offset;
+    }
+
+    @media only screen and (max-width: $page-width) {
+        .header,
+        .content,
+        .footer {
+            width: 100%;
+        }
+    }
 }
 
 
 .regions {
     font-size: 1.2rem;
+    margin-left: -4px;
+
+    @media only screen and (max-width: $page-width) {
+        font-size: 0.9rem;
+    }
 
     a, a:active, a:visited {
-        color: #000;
         text-decoration: none;
     }
 
     a:hover {
-        border-bottom: 3px solid black;
+        background: #000;
+        color: #fff;
     }
 }
 
 .footer {
-    border-top: 1px solid #000;
+    border-top: $thick-border solid #000;
+    color: #00000080;
     margin-top: 2rem;
-    padding-bottom: 0.5rem;
+    padding: $common-padding 0;
 
     .copyright {
         font-size: 0.9rem;
