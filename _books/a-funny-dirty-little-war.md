@@ -9,8 +9,8 @@ region: latam
 amazon: 
 goodreads: http://www.goodreads.com/book/show/433730.Funny_Dirty_Little_War
 
-cover: /assets/images/a-funny-dirty-little-war.jpg
-permalink: /a-funny-dirty-little-war
+cover: ./assets/images/a-funny-dirty-little-war.jpg
+permalink: ./a-funny-dirty-little-war
 
 layout: book
 ---

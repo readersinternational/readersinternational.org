@@ -9,8 +9,8 @@ region: europe
 amazon: https://www.amazon.com/Cobblestone-P%C3%A9ter-Lengyel-ebook/dp/B07HXDY7F5/ref=sr_1_7?s=digital-text&ie=UTF8&qid=1540229028&sr=1-7&keywords=cobblestone=
 goodreads: http://https//https://www.goodreads.com/book/show/1507987.Cobblestone
 
-cover: /assets/images/cobblestone.jpg
-permalink: /cobblestone
+cover: ./assets/images/cobblestone.jpg
+permalink: ./cobblestone
 
 layout: book
 ---

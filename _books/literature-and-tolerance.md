@@ -9,8 +9,8 @@ region: europe
 amazon: https://www.amazon.com/Literature-Tolerance-Prague-Karel-Capek-ebook/dp/B071DNLXYJ?SubscriptionId=1MMFMDQSXBK76B7FVN02&tag=kindkindle03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071DNLXYJ=
 goodreads: 
 
-cover: /assets/images/literature-and-tolerance.jpg
-permalink: /literature-and-tolerance
+cover: ./assets/images/literature-and-tolerance.jpg
+permalink: ./literature-and-tolerance
 
 layout: book
 ---

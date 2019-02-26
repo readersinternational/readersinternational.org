@@ -9,8 +9,8 @@ region: africa
 amazon: 
 goodreads: http://www.goodreads.com/book/show/1247701.Fools_And_Other_Stories
 
-cover: /assets/images/fools-and-other-stories.jpg
-permalink: /fools-and-other-stories
+cover: ./assets/images/fools-and-other-stories.jpg
+permalink: ./fools-and-other-stories
 
 layout: book
 ---

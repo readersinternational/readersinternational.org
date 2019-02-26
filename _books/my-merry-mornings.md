@@ -9,8 +9,8 @@ region: europe
 amazon: https://www.amazon.com/My-Merry-Mornings-Ivan-Klima-ebook/dp/B071KTYCS9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: http://www.goodreads.com/book/show/184667.My_Merry_Mornings
 
-cover: /assets/images/my-merry-mornings.jpg
-permalink: /my-merry-mornings
+cover: ./assets/images/my-merry-mornings.jpg
+permalink: ./my-merry-mornings
 
 layout: book
 ---

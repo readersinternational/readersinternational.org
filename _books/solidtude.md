@@ -8,8 +8,8 @@ region: europe
 
 goodreads: http://www.goodreads.com/book/show/1646870.Solitude
 
-cover: /assets/images/solitude.jpg
-permalink: /solitude
+cover: ./assets/images/solitude.jpg
+permalink: ./solitude
 
 layout: book
 ---

@@ -9,8 +9,8 @@ region: europe
 amazon: https://www.amazon.co.uk/Bringing-Girls-Bohemia-Michal-Viewegh-ebook/dp/B072DVYT8F/ref=sr_1_1_twi_kin_2/259-6110468-5627203?ie=UTF8&qid=1504362996&sr=8-1&keywords=bringing+up+girls+in+bohemia=
 goodreads: http://www.goodreads.com/book/show/339835.Bringing_Up_Girls_in_Bohemia
 
-cover: /assets/images/bringing-up-girls-in-bohemia.jpg
-permalink: /bringing-up-girls-in-bohemia
+cover: ./assets/images/bringing-up-girls-in-bohemia.jpg
+permalink: ./bringing-up-girls-in-bohemia
 
 layout: book
 ---
