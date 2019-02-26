@@ -4,15 +4,29 @@
 .book {
     display: flex;
     flex-direction: row;
+    @media only screen and (max-width: $page-width) {
+        padding: $common-padding;
+    }
 
     .cover {
+        float: left;
         margin-right: 2rem;
-        min-width: 300px;
+        width: 25rem;
+
+        @media only screen and (max-width: $page-width) {
+            margin-right: $common-padding;
+            width: initial;            
+        }
 
         img {
             border: 1px solid #00000020;
             max-width: 100%;
+            @media only screen and (max-width: $page-width) {
+               max-width: initial;
+               height: 15rem;
+            }
         }
+
     }
 
     .title {
@@ -21,6 +35,6 @@
     }
 
     .book-content {
-        padding-top: $common-padding;
+        padding-top: 2rem;
     }
 }

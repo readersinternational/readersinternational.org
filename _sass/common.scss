@@ -4,8 +4,12 @@ $common-padding: 0.5rem;
 // Offset used to make sure that links to the regions with the floating header
 // are not hidden behind the header.
 $header-offset: 120px;
+$header-offset-mobile: 50px;
 
-$region-offset: 90px;
+// Used for anchors on the books page - ensures that anchors are not behind
+// header.
+$region-offset: -100px;
+$region-offset-mobile: -30px;
 
 // Width of a default page.
 $page-width: 1000px;

@@ -2,7 +2,13 @@
 @import 'common';
 
 .anchor {
-  padding-top: $region-offset;
+  display: block;
+  position: relative;
+  top: $region-offset;
+
+  @media only screen and (max-width: $page-width) {
+    top: $region-offset-mobile;
+  }
 }
 
 .region-title {
@@ -13,12 +19,17 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    
+    @media only screen and (max-width: $page-width) {
+     padding: $common-padding;
+    }
 
     .book {
         width: 25%;
 
         @media only screen and (max-width: $page-width) {
           width: 40%;
+          padding: $common-padding;
         }
 
         img {

@@ -1,28 +1,63 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet"> 
-        <link href="assets/css/style.css" rel="stylesheet" />    
-        <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
-        <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <title>Readers International</title>
-    </head>
-    <body>
-        <div class="page">
-            <div class="header">
-                <h1>
-                    <a href="/">
-                        Readers International
-                    </a>
-                </h1>
-                <div class="regions">
-                    <a href="/books#europe">Europe</a>
-                    <a href="/books#latam">Latin America & Caribbean</a>
-                    <a href="/books#africa">Africa</a>
-                    <a href="/books#asia">Asia</a>
-                </div>
-            </div>
-            <div class="content">                
-            
-        
+
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet" />
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Readers International</title>
+  <script>
+    const toggleMenu = () => {
+      const menu = document.querySelector('.mobile-menu');
+      menu.classList.toggle('open');
+    };
+  </script>
+</head>
+
+<body>
+  <div class="page">
+    <div class="header">
+      <h1>
+        <a href="/">
+          Readers International
+        </a>
+      </h1>
+      <div class="header-links">
+        <div class="regions">
+          <a href="/books#europe">Europe</a>
+          <a href="/books#latam">Latin America & Caribbean</a>
+          <a href="/books#africa">Africa</a>
+          <a href="/books#asia">Asia</a>
+        </div>
+        <div class="meta">
+            <a href="/about-contact">About / Contact</a>
+        </div>
+      </div>
+    </div>
+    <div class="header-mobile">
+      <a href="javascript:void(0);" class="icon" onmousedown="toggleMenu()">
+        <i class="material-icons">menu</i>
+      </a>
+      <span>Readers International</span>
+    </div>
+    <div class="mobile-menu">
+      <div class="close">
+        <a href="javascript:void(0);" class="icon" onmousedown="toggleMenu()">
+          <i class="material-icons">close</i>
+        </a>
+      </div>
+      <div class="links">
+        <a href="/">Home</a><br>
+        <div class="break">&nbsp</div>
+        <a href="/books#europe" onmousedown="toggleMenu()">Europe</a><br>
+        <a href="/books#latam" onmousedown="toggleMenu()">Latin America & Caribbean</a><br>
+        <a href="/books#africa" onmousedown="toggleMenu()">Africa</a><br>
+        <a href="/books#asia" onmousedown="toggleMenu()">Asia</a><br>
+        <div class="break">&nbsp</div>
+        <a href="/about-contact">About / Contact</a>
+      </div>
+    </div>
+    <div class="content">
