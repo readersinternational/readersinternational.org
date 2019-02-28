@@ -8,9 +8,11 @@
     <h2 class="title">{{ page.title }}</h2>
     {{ page.author}}<br>
     {{ page.translation }}<br>
-    ISBN {{ page.isbn_physical}}<br>
+    {% if page.isbn_physical %}
+    ISBN {{ page.isbn_physical }}<br>
+    {% endif %}
     {% if page.isbn_ebook %}
-    ISBN {{ page.isbn_ebook }}<br>
+    eBook ISBN {{ page.isbn_ebook }}<br>
     {% endif %}
 
     {% if page.goodreads %}
