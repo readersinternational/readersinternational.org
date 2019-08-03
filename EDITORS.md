@@ -24,6 +24,8 @@ Adding a new book
   ---
   Description of the book goes here.
   ```
+
+ - "region" should be one of either latam, europe, africa, or asia.
   - If something doesn't apply for the current book (e.g. perhaps there is no eBook ISBN or no translator), just leave those bits blank.
   - Make sure that the `---` at the start and end of the metadata section is not accidentally lost.
 - Upload the book cover image to the `assets/images` directory with the same naming convention as the file above, e.g. `my-amazing-story.jpg`

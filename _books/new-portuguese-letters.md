@@ -20,5 +20,4 @@ The Three Marias take as their inspiration the seventeenth-century European clas
 <br><br>
 When it first appeared, the book was banned and the authors were arrested and charged with obscenity and abuse of freedom of the press. Today *New Portuguese Letters* remains as fresh and challenging as when the cause of the Three Marias first lit a flame of international protest by women and for women. All three authors have continued writing, though not in collaboration.
 <br><br>
-*"Pitiless towards man the tyrant but often unforgettably tender towards man the tragic animal who must learn to share both his life and his inevitable death with woman — that creature whom nature has made his partner but history his slave."*
-—from the Preface by Helen R. Lane
+*"Pitiless towards man the tyrant but often unforgettably tender towards man the tragic animal who must learn to share both his life and his inevitable death with woman — that creature whom nature has made his partner but history his slave."* from the Preface by Helen R. Lane

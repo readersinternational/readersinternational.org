@@ -6,7 +6,7 @@
 <div class="region">
   {% for book in site.books %}
     {% if book.region == "europe" %}
-      {% include book.html book=book %}
+      {% include book-listing.html book=book %}
     {% endif %}
   {% endfor %}
 </div>
@@ -16,7 +16,7 @@
 <div class="region">
   {% for book in site.books %}
     {% if book.region == "latam" %}
-      {% include book.html book=book %}
+      {% include book-listing.html book=book %}
     {% endif %}
   {% endfor %}
 </div>
@@ -26,7 +26,7 @@
 <div class="region">
   {% for book in site.books %}
     {% if book.region == "africa" %}
-      {% include book.html book=book %}
+      {% include book-listing.html book=book %}
     {% endif %}
   {% endfor %}
 </div>
@@ -36,7 +36,7 @@
 <div class="region">
   {% for book in site.books %}
     {% if book.region == "asia" %}
-      {% include book.html book=book %}
+      {% include book-listing.html book=book %}
     {% endif %}
   {% endfor %}
 </div>

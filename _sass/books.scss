@@ -16,39 +16,45 @@
 }
 
 .region {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+  @media only screen and (max-width: $page-width) {
+    padding: $common-padding;
+  }
+
+  .book {
+    width: 25%;
+    padding-bottom: 2rem;
+
     @media only screen and (max-width: $page-width) {
-     padding: $common-padding;
+      width: 40%;
+      padding: $common-padding;
     }
 
-    .book {
-        width: 25%;
-
-        @media only screen and (max-width: $page-width) {
-          width: 40%;
-          padding: $common-padding;
-        }
-
-        img {
-            border: 1px solid #00000020;
-            height: 20rem;
-
-            @media only screen and (max-width: $page-width) {
-              height: initial;
-              max-width: 100%;
-            }
-        }
-
-        .title {
-          font-size: 1rem;
-          margin: 0;
-        }
-
-        .author {
-          font-size: 0.8rem;
-        }
+    a {
+    text-decoration: none;
     }
+
+    img {
+      border: 1px solid #00000020;
+      height: 20rem;
+
+      @media only screen and (max-width: $page-width) {
+        height: initial;
+        max-width: 100%;
+      }
+    }
+
+    .title {
+      font-size: 1rem;
+      margin: 0;
+      padding: 0;
+    }
+
+    .author {
+      font-size: 0.8rem;
+    }
+  }
 }

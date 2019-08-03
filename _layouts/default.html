@@ -1,3 +1,16 @@
 {% include header.html %}
 {{ content }}
+
+<script src="/assets/scripts/vanilla-js-carousel.min.js"></script>
+<script>
+  const carousel = new Carousel({
+    elem: 'carousel',
+    dots: true,
+    arrows: false,
+    buttons: false,
+    autoplay: true,
+    infinite: true,
+    interval: 6000,  
+  });
+</script>
 {% include footer.html %}

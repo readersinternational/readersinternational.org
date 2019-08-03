@@ -17,8 +17,8 @@ layout: book
 
 Seven witty stories, one for each day of the week, give a vivid picture of Prague before the Velvet Revolution.
 <br><br>
-*"The best short stories since the days of Karel Čapek."* – FINANCIAL TIMES
+*"The best short stories since the days of Karel Čapek."* FINANCIAL TIMES
 <br><br>
-*"An extremely likeable personality, decent,humorous and engagingly down-to-earth."* –NEW YORK TIMES BOOK REVIEW
+*"An extremely likeable personality, decent,humorous and engagingly down-to-earth."* NEW YORK TIMES BOOK REVIEW
 <br><br>
 *"Seven autobiographical tales,one for each morning of the week ... alternately grimly funny, shocking, or absurd."* TIMES LITERARY SUPPLEMENT

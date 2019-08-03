@@ -1,28 +1,35 @@
 {% include header.html %}
 
 <div class="book">
-  <div class="details">
+  <div>
     <div class="cover">
       <img src="{{ page.cover}}" />
     </div>
     <h2 class="title">{{ page.title }}</h2>
-    {{ page.author}}<br>
-    {{ page.translation }}<br>
-    {% if page.isbn_physical %}
-    ISBN {{ page.isbn_physical }}<br>
-    {% endif %}
-    {% if page.isbn_ebook %}
-    eBook ISBN {{ page.isbn_ebook }}<br>
-    {% endif %}
+    <div  class="details">
+      <div class="metadata">
+        {{ page.author}}<br>
+        {{ page.translation }}<br>
+        {% if page.isbn_physical %}
+        ISBN {{ page.isbn_physical }}<br>
+        {% endif %}
+        {% if page.isbn_ebook %}
+        eBook ISBN {{ page.isbn_ebook }}<br>
+        {% endif %}
 
-    {% if page.goodreads %}
-    <a href="{{ page.goodreads }}" target="_blank">Reviews on Goodreads.com</a><br>
-    {% endif %}
+        {% if page.goodreads %}
+        <a href="{{ page.goodreads }}" target="_blank">Reviews on Goodreads.com</a><br>
+        {% endif %}
+      </div>
+      <div class="purchase">
+          {% if page.amazon %}          
+            <a href="{{ page.amazon }}" target="_blank">
+              <img class="amazon" src="/assets/images/amazon.png" title="Buy eBook on Amazon"/>
+            </a>
+          {% endif %}
+      </div>
 
-    {% if page.amazon %}
-    <a href="{{ page.amazon }}" target="_blank">E-Book now available</a><br>
-    {% endif %}
-
+    </div>
     <div class="book-content">
       {{content}}
     </div>
