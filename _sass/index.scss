@@ -1,14 +1,39 @@
+@import 'common';
+
+.our-books {
+  text-align: right;
+  
+  a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: $common-padding;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: #000;
+    color: #fff;
+  }
+
+}
+
+/* JS Carousel beyond this point. */
+
+$carousel-width: 1000px;
+$carousel-height: 255px;
+
 .js-Carousel {
   background: transparent;  /** Modified for less eye-bleeding. */
-  height: 255px;
+  height: $carousel-height;
   margin: 0 auto 2em;
   overflow: hidden;
   position: relative;
-  width: 1000px;
+  width: $carousel-width;
 }
 
 .js-Carousel .carousel-title{
-  background: rgb(0,0,0,0.6);
+  background: rgba(0,0,0,0.6);
   color: white;
   display: inline-block;
   font-size: 1.5rem;
@@ -18,7 +43,7 @@
 }
 
 .js-Carousel > ul {
-  height: 200px;
+  height: $carousel-height;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -29,8 +54,8 @@
   background-position: center;
   display: inline-block;
   float: left;
-  height: 255px;
-  width: 1000px;
+  height: $carousel-height;
+  width: $carousel-width;
   transition: margin-left 1.25s ease-in-out;
 }
 .js-Carousel > ul li img {
