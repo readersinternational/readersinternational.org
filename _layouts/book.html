@@ -1,25 +1,27 @@
 {% include header.html %}
 
-<div class="book">
+<div class="book" itemscope itemtype="https://schema.org/Book">
   <div>
     <div class="cover">
       <img src="{{ page.cover}}" />
     </div>
-    <h2 class="title">{{ page.title }}</h2>
+    <h2 class="title" itemprop="name">{{ page.title }}</h2>
     <div  class="details">
       <div class="metadata">
-        {{ page.author}}<br>
-        {{ page.translation }}<br>
+        <span itemprop="author">{{ page.author}}</span><br>
+        <span itemprop="translator">{{ page.translation }}</span><br>
         {% if page.isbn_physical %}
-        ISBN {{ page.isbn_physical }}<br>
+        ISBN <span itemprop="isbn">{{ page.isbn_physical }}</span><br>
         {% endif %}
         {% if page.isbn_ebook %}
-        eBook ISBN {{ page.isbn_ebook }}<br>
+        eBook ISBN <span itemprop="isbn">{{ page.isbn_ebook }}</span><br>
         {% endif %}
 
         {% if page.goodreads %}
         <a href="{{ page.goodreads }}" target="_blank">Reviews on Goodreads.com</a><br>
         {% endif %}
+        <span class="hidden" itemprop="inLanguage">English</span>
+        <span class="hidden" itemprop="publisher">Readers International</span>
       </div>
       <div class="purchase">
           {% if page.amazon %}          
