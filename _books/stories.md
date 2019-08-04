@@ -9,7 +9,7 @@ region: latam
 amazon: https://www.amazon.com/Stories-Sergio-Ramirez-ebook/dp/B079P6KVZM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: 
 
-cover:  /assets/images/stories.jpg
+cover:  ./assets/images/stories.jpg
 permalink: /stories
 
 layout: book

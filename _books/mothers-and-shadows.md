@@ -9,7 +9,7 @@ region: latam
 amazon: https://www.amazon.com/Mothers-Shadows-Marta-Traba-ebook/dp/B0714NMQJX/ref=sr_1_4?ie=UTF8&qid=1504364454&sr=8-4
 goodreads: 
 
-cover:  /assets/images/mothers-and-shadows.jpg
+cover:  ./assets/images/mothers-and-shadows.jpg
 permalink: /mothers-and-shadows
 
 layout: book

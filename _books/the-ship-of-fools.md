@@ -12,7 +12,7 @@ carousel_y: 27%;
 amazon: https://www.amazon.com/Ship-Fools-Cristina-Peri-Rossi-ebook/dp/B075FFXDV3/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1505144939&sr=1-4
 goodreads: 
 
-cover:  /assets/images/the-ship-of-fools.jpg
+cover:  ./assets/images/the-ship-of-fools.jpg
 permalink: /the-ship-of-fools
 
 layout: book

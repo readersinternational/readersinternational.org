@@ -12,7 +12,7 @@ carousel_y: 61%;
 amazon: https://www.amazon.com/Bury-Our-Fathers-Novel-Nicaragua-ebook/dp/B07BRBVVMG
 goodreads: 
 
-cover:  /assets/images/to-bury-our-fathers.jpg
+cover:  ./assets/images/to-bury-our-fathers.jpg
 permalink: /to-bury-our-fathers
 
 layout: book

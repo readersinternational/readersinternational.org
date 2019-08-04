@@ -9,7 +9,7 @@ region: latam
 amazon: 
 goodreads: 
 
-cover:  /assets/images/hard-rain.jpg
+cover:  ./assets/images/hard-rain.jpg
 permalink: /hard-rain
 
 layout: book

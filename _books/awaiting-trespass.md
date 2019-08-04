@@ -9,7 +9,7 @@ region: asia
 amazon: 
 goodreads: 
 
-cover:  /assets/images/awaiting-trespass.jpg
+cover:  ./assets/images/awaiting-trespass.jpg
 permalink: /awaiting-trespass
 
 layout: book

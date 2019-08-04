@@ -9,7 +9,7 @@ region: latam
 amazon: 
 goodreads: 
 
-cover:  /assets/images/blues_for_a_lost_childhood.jpg
+cover:  ./assets/images/blues_for_a_lost_childhood.jpg
 permalink: /blues-for-a-lost-childhood
 
 layout: book

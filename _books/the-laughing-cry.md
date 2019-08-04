@@ -9,7 +9,7 @@ region: africa
 amazon: https://www.amazon.co.uk/Laughing-Cry-African-Cock-Story-ebook/dp/B075FF6365/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1506080752&sr=1-1&keywords=LAUGHING+CRY+ebook=
 goodreads: 
 
-cover:  /assets/images/the-laughing-cry.jpg
+cover:  ./assets/images/the-laughing-cry.jpg
 permalink: /the-laughing-cry
 
 layout: book

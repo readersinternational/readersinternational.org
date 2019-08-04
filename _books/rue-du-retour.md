@@ -9,7 +9,7 @@ region: africa
 amazon: https://www.amazon.co.uk/Rue-du-Retour-Abdellatif-La%C3%A2bi-ebook/dp/B075FF12WN/ref=sr_1_1?ie=UTF8&qid=1505226298&sr=8-1&keywords=rue+du+retour+ebook=
 goodreads: 
 
-cover:  /assets/images/rue-du-retour.jpg
+cover:  ./assets/images/rue-du-retour.jpg
 permalink: /rue-du-retour
 
 layout: book

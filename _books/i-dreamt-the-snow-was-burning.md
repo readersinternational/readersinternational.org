@@ -9,7 +9,7 @@ region: latam
 amazon: 
 goodreads: 
 
-cover:  /assets/images/i-dreamt-the-snow-was-burning.jpg
+cover:  ./assets/images/i-dreamt-the-snow-was-burning.jpg
 permalink: /i-dreamt-the-snow-was-burning
 
 layout: book

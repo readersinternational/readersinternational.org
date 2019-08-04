@@ -12,7 +12,7 @@ carousel_y: 57%;
 amazon: https://www.amazon.com/Cathedral-August-Heat-Pierre-Clitandre-ebook/dp/B079H8TQY2/ref=tmm_kin_title_0?_encoding=UTF8&qid=&sr=
 goodreads: 
 
-cover:  /assets/images/cathedral-of-the-august-heat.jpg
+cover:  ./assets/images/cathedral-of-the-august-heat.jpg
 permalink: /cathedral-of-the-august-heat
 
 layout: book
