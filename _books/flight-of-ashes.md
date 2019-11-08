@@ -17,3 +17,5 @@ layout: book
 *"A remarkable literary debut"* Frankfurter Allgemeine Zeitung
 <br><br>
 First novel in English by a ground-breaking critical voice from East Germany, now one of the most controversial voices in the unified Germany and one of the country's best known women writers.
+<br><br>
+Cover image: Thoughts are Free by Klaus Staeck
