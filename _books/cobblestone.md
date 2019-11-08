@@ -7,7 +7,7 @@ isbn_ebook: 9781887378079
 region: europe
 
 amazon: https://www.amazon.com/Cobblestone-P%C3%A9ter-Lengyel-ebook/dp/B07HXDY7F5/
-goodreads: http://https//https://www.goodreads.com/book/show/1507987.Cobblestone
+goodreads: https://www.goodreads.com/book/show/48264914-cobblestone
 
 cover: ./assets/images/cobblestone.jpg
 permalink: ./cobblestone
