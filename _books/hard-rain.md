@@ -6,8 +6,8 @@ isbn_physical: 9780930523787
 isbn_ebook: 
 region: latam
 
-amazon: 
-goodreads: 
+amazon: https://www.amazon.co.uk/Hard-Rain-Ariel-Dorfman/dp/0930523784/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1573241756&sr=8-1
+goodreads: https://www.goodreads.com/book/show/2339237.Hard_Rain
 
 cover:  ./assets/images/hard-rain.jpg
 permalink: /hard-rain
@@ -21,3 +21,5 @@ In 1973 Ariel Dorfman published his first novel, a bold look at Chile's tense an
 *"It was bound to happen one day: a writer, a victim, a revolutionary, capable of seeing God in the vertigo of experience. It was bound to happen - but not necessarily accompanied by Dorfman's accessibility and greatness."* John Berger
 <br><br>
 *"This is a rich, exciting and provactive book... Profoundly, critically, passionately revolutionary in its narrative."* Julio Cortázar
+
+Cover image: When It Rains Everyone Gets Wet by Chilean artist Jaime Azócar 
