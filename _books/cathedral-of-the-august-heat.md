@@ -3,7 +3,7 @@ title: Cathedral Of The August Heat
 author: Pierre Clitandre
 translation: Translated from French by Bridget Jones
 isbn_physical: 9780930523312
-isbn_ebook: 
+isbn_ebook: 9781887378161 
 region: latam
 
 in_carousel: true
