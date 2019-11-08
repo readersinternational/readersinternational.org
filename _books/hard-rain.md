@@ -21,5 +21,5 @@ In 1973 Ariel Dorfman published his first novel, a bold look at Chile's tense an
 *"It was bound to happen one day: a writer, a victim, a revolutionary, capable of seeing God in the vertigo of experience. It was bound to happen - but not necessarily accompanied by Dorfman's accessibility and greatness."* John Berger
 <br><br>
 *"This is a rich, exciting and provactive book... Profoundly, critically, passionately revolutionary in its narrative."* Julio Cortázar
-
+<br><br>
 Cover image: When It Rains Everyone Gets Wet by Chilean artist Jaime Azócar 
