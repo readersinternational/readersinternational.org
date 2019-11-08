@@ -15,8 +15,12 @@ permalink: ./homage-to-the-eighth-district
 layout: book
 ---
 *"A Hungarian rapsody"* Panorama
+
 *"Each story embraces a lifetime, and all are characterised by the same gracious equanimity…whether the events they describe are gruesome or humorous, whether they involve a Jew, a Christian, or a Gypsy."* THE VILLAGE VOICE
+
 *"History, but full of the feeling of fable."* EL PAIS
+
 <br><br>
 Giorgio and Nicola Pressburger, twin brothers born in Budapest who fled to Italy in 1956, recreate the famous ghetto district of their youth in ten stories that won the prestigious Italian Jesolo Prize.
+
 Budapest's Eighth District was the last great centre of European Jewry to withstand Nazism and Stalinism (as well as the crushing of the 1956 uprising), and the Pressburger brothers open a new and fascinating window on this place.
