@@ -23,4 +23,4 @@ Seven witty stories, one for each day of the week, give a vivid picture of Pragu
 <br><br>
 *"Seven autobiographical tales,one for each morning of the week ... alternately grimly funny, shocking, or absurd."* TIMES LITERARY SUPPLEMENT
 <br><br>
-Cover: original art by Czecch painter and animator Jan Brychta.
+Cover: original art by Czech painter and animator Jan Brychta.
