@@ -2,9 +2,12 @@
 title: The Gourmet and Other Stories of Modern China
 author: Lu Wenfu
 translation: 
-isbn_physical: 9780930523381
+isbn_physical: 9780930523398
 isbn_ebook: 
 region: asia
+
+amazon: https://www.amazon.com/Gourmet-Other-Stories-Modern-China/dp/0930523385/ref=sr_1_1?crid=1B1TDV2EM2ZWO&keywords=Lu+wenfu+the+gourmet+and+other+stories&qid=1573245916&sprefix=books+by+jan+pie%2Caps%2C248&sr=8-1
+goodreads: https://www.goodreads.com/book/show/3363381-the-gourmet-and-other-stories-of-modern-china
 
 cover: ./assets/images/the-gourmet-and-other-stories-of-modern-china.jpg
 permalink: ./the-gourmet-and-other-stories-of-modern-china
@@ -13,4 +16,8 @@ layout: book
 ---
 *"The dry delicacy of these stories is impressive, each a valuable channel into the art and life of modern China."* KIRKUS REVIEWS
 <br><br>
-Under Lu Wenfu's incisive yet tolerant eye, wonton sellers, rickshaw pullers, teachers, hedonists and bureaucrats all try to adapt to modern China's recurrent upheavals. Accent magazine (USA) calls this collection “some of the best writing from the new China”.
+Under Lu Wenfu's incisive yet tolerant eye, wonton sellers, rickshaw pullers, teachers, hedonists and bureaucrats all try to adapt to modern China's recurrent upheavals. 
+<br><br>
+Accent magazine (USA) calls this collection “some of the best writing from the new China”.
+<br><br>
+Cover image and other illustrations by Qi Baishi
