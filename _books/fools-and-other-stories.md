@@ -18,4 +18,6 @@ layout: book
 <br><br>
 *"We become thoroughly immersed in Mr Ndebele's world, the township with its tin roofs, its peach trees and garbage dumps, the sense of risk and apprehension that overhangs the daily lives of these people"* NY TIMES BOOK REVIEW
 <br><br>
-These powerful yet delicate narratives won the NOMA Prize, Africa's highest literary award. Ndebele evokes township life with humour and subtlety, rejecting the image of black South Africans as victims and focusing on the complexity and fierce energy of their lives. Cover image by South African artist Fikile.
+These powerful yet delicate narratives won the NOMA Prize, Africa's highest literary award. Ndebele evokes township life with humour and subtlety, rejecting the image of black South Africans as victims and focusing on the complexity and fierce energy of their lives. 
+<br><br>
+Cover image by South African artist Fikile.
