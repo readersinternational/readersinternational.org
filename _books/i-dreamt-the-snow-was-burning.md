@@ -6,8 +6,8 @@ isbn_physical: 9780930523077
 isbn_ebook: 
 region: latam
 
-amazon: 
-goodreads: 
+amazon: https://www.amazon.co.uk/s?k=skarmeta+I+dreamt+the+snow+was+burning&i=stripbooks&ref=nb_sb_noss
+goodreads: https://www.goodreads.com/book/show/1201165.I_Dreamt_the_Snow_was_Burning
 
 cover:  ./assets/images/i-dreamt-the-snow-was-burning.jpg
 permalink: /i-dreamt-the-snow-was-burning
