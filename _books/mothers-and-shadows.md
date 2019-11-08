@@ -7,7 +7,7 @@ isbn_ebook: 9781887378093
 region: latam
 
 amazon: https://www.amazon.com/Mothers-Shadows-Marta-Traba-ebook/dp/B0714NMQJX/ref=sr_1_4?ie=UTF8&qid=1504364454&sr=8-4
-goodreads: 
+goodreads: https://www.goodreads.com/book/show/723743.Mothers_Shadows
 
 cover:  ./assets/images/mothers-and-shadows.jpg
 permalink: /mothers-and-shadows
@@ -25,3 +25,5 @@ Critical acclaim for Marta Traba’s powerful novel of women face to face with L
 *"A record and an act of defiance."* PHILDELPHIA INQUIRER
 <br><br>
 *"As timely today as when it was first published."* LOS ANGELES REVIEW 
+
+Cover image: "Fruta carne" by Gustavo Zalamea, son of the author.
