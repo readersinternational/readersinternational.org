@@ -6,7 +6,7 @@ isbn_physical: 9780930523411
 isbn_ebook: 
 region: europe
 
-amazon: 
+amazon: https://www.amazon.co.uk/Defector-Monika-Maron/dp/0930523415/ref=tmm_pap_title_0?_encoding=UTF8&qid=1573240214&sr=1-2
 goodreads: https://www.goodreads.com/book/show/1784103.The_Defector
 
 cover: ./assets/images/defector.jpg
