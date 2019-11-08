@@ -6,7 +6,7 @@ isbn_physical: 9780930523633
 isbn_ebook: 9781887378147
 region: europe
 
-amazon: https://www.amazon.com/Literature-Tolerance-Prague-Karel-Capek-ebook/dp/B071DNLXYJ?SubscriptionId=1MMFMDQSXBK76B7FVN02&tag=kindkindle03-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B071DNLXYJ=
+amazon: https://www.amazon.com/Literature-Tolerance-Prague-Vaclav-Havel/dp/0930523636/ref=sr_1_1?keywords=havel+literature+and+tolerance&qid=1573243208&s=books&sr=1-165953&creativeASIN=B071DNLXYJ=
 goodreads: 
 
 cover: ./assets/images/literature-and-tolerance.jpg
