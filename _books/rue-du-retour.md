@@ -6,8 +6,8 @@ isbn_physical: 9780930523657
 isbn_ebook: 9781887378154
 region: africa
 
-amazon: https://www.amazon.co.uk/Rue-du-Retour-Abdellatif-La%C3%A2bi-ebook/dp/B075FF12WN/ref=sr_1_1?ie=UTF8&qid=1505226298&sr=8-1&keywords=rue+du+retour+ebook=
-goodreads: 
+amazon: https://www.amazon.com/Rue-du-Retour-Abdellatif-La%C3%A2bi/dp/0930523652/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1573244769&sr=8-1
+goodreads: https://www.goodreads.com/en/book/show/931530.Rue_Du_Retour
 
 cover:  ./assets/images/rue-du-retour.jpg
 permalink: /rue-du-retour
@@ -23,3 +23,5 @@ His magisterial prose and poetry have won Abdellatif Laâbi successively France'
 *"The restlessness of Laâbi's spirit, by turns melancholy and joyous, hopeful and forlorn—is quintessentially the spirit of our time."* HARPERS
 <br><br>
 *"Stunning ..."* PUBLISHERS WEEKLY
+<br><br>
+Cover image: Mahgreb scene by Riccardo Wolfson
