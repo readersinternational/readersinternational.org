@@ -25,5 +25,5 @@ Critical acclaim for Marta Traba’s powerful novel of women face to face with L
 *"A record and an act of defiance."* PHILDELPHIA INQUIRER
 <br><br>
 *"As timely today as when it was first published."* LOS ANGELES REVIEW 
-
+<br><br>
 Cover image: "Fruta carne" by Gustavo Zalamea, son of the author.
