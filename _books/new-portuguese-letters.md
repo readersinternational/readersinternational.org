@@ -6,7 +6,7 @@ isbn_physical: 9780930523985
 isbn_ebook: 
 region: europe
 
-amazon: 
+amazon: https://www.amazon.com/Portuguese-Letters-Maria-Barreno-1994-09-25/dp/B01FKRDP2M/ref=sr_1_3?keywords=barreno+new+portuguese+letters&qid=1573244121&s=books&sr=1-3
 goodreads: https://www.goodreads.com/book/show/1863537.New_Portuguese_Letters
 
 cover: ./assets/images/new-portuguese-letters.jpg
@@ -21,3 +21,5 @@ The Three Marias take as their inspiration the seventeenth-century European clas
 When it first appeared, the book was banned and the authors were arrested and charged with obscenity and abuse of freedom of the press. Today *New Portuguese Letters* remains as fresh and challenging as when the cause of the Three Marias first lit a flame of international protest by women and for women. All three authors have continued writing, though not in collaboration.
 <br><br>
 *"Pitiless towards man the tyrant but often unforgettably tender towards man the tragic animal who must learn to share both his life and his inevitable death with woman — that creature whom nature has made his partner but history his slave."* from the Preface by Helen R. Lane
+<br><br>
+Cover image by Piet Mondrian.
