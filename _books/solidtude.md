@@ -3,7 +3,7 @@ title: Solitude
 author: Víctor Català (Caterina Albert i Paradís)
 translation: Translated from Catalan with a preface by David H. Rosenthal
 isbn_physical: 9780930523923
-isbn_ebook:
+isbn_ebook: 9781887378192
 region: europe
 
 goodreads: http://www.goodreads.com/book/show/1646870.Solitude
