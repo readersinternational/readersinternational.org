@@ -17,5 +17,5 @@ layout: book
 *"This ballad of the compañeros of Allende’s Chile is, with its vigor and fantasy, undoubtedly one of the best pieces of committed literature to emerge from Latin America."* LE MONDE
 <br><br>
 In this novel, Skármeta gives us all the warmth and doomed enthusiasm of the last days of Allende, before the fall of democratic Chile brought tanks into the streets, enthroned the generals and turned the national football stadium into a torture centre.
-
+<br><br>
 Cover image and frontispiece: The Fallen Goal I and II, original art for this book by noted Chilean painter, muralist and engraver Nemesio Antúnez (1918-1993)
