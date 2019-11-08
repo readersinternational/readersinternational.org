@@ -23,6 +23,6 @@ layout: book
 <br><br>
 *"Subtle and convincing…,the book never loses its linguistic power or elegiac emotion."* LOS ANGELES TIMES
 <br><br>
-Sergio Ramírez, who winner of the Cervantes Prize, the highest literary award in the Hispanic world, wrote his great panoramic novel in exile, and this was the first Nicaraguan novel ever translated into English. The long years of dictatorship in Nicaragua are dramatically recreated by the country's leading prose artist. Cabaret singers, exiles, policemen, prostitutes and would-be presidents people a sophisticated, lyrical and timeless epic of resistance and retribution. 
+Sergio Ramírez, winner of the Cervantes Prize, the highest literary award in the Hispanic world, wrote his great panoramic novel in exile, and this was the first Nicaraguan novel ever translated into English. The long years of dictatorship in Nicaragua are dramatically recreated by the country's leading prose artist. Cabaret singers, exiles, policemen, prostitutes and would-be presidents people a sophisticated, lyrical and timeless epic of resistance and retribution. 
 <br><br>
 Cover image by Nicaraguan artist Mario Marín.
