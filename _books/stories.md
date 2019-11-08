@@ -7,7 +7,7 @@ isbn_ebook:
 region: latam
 
 amazon: https://www.amazon.com/Stories-Sergio-Ramirez-ebook/dp/B079P6KVZM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
-goodreads: 
+goodreads: https://www.goodreads.com/book/show/3791723-stories
 
 cover:  ./assets/images/stories.jpg
 permalink: /stories
@@ -24,4 +24,6 @@ layout: book
 <br><br>
 *"These are wondrous, poignant tales that capture the reader’s attention. Extremely well crafted, perceptive narratives…."* CHOICE
 <br><br>
-Subtle stories that bring alive the characters and conflicts of Nicaragua, past and present. Guerrillas, police, prostitutes, beauty queens and would-be presidents people the sophisticated, lyrical worlds created by Ramírez, one of Latin America's most important writers, who has just won the highest literary award for the Hispanic world. Cover image by Nicaraguan artist Miriam Guevara.
+Subtle stories that bring alive the characters and conflicts of Nicaragua, past and present. Guerrillas, police, prostitutes, beauty queens and would-be presidents people the sophisticated, lyrical worlds created by Ramírez, one of Latin America's most important writers, who has just won the highest literary award for the Hispanic world. 
+<br><br>
+Cover image by Nicaraguan artist Miriam Guevara.
