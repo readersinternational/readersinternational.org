@@ -6,7 +6,7 @@ isbn_physical: 9780930523749
 isbn_ebook: 
 region: europe
 
-amazon: 
+amazon: https://www.amazon.com/My-Childhood-at-Gate-Unrest/dp/0930523741/ref=sr_1_1?keywords=goma+my+childhood+at+the+gate+of+unrest&qid=1573243883&s=books&sr=1-1
 goodreads: https://www.goodreads.com/book/show/1028613.My_Childhood_At_The_Gate_Of_Unrest
 
 cover: ./assets/images/my-childhood-at-the-gate-of-unrest.jpg
