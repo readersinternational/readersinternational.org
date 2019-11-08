@@ -3,7 +3,7 @@ title: Stories
 author: Sergio Ramírez
 translation: Translated from Spanish by Nick Caistor
 isbn_physical: 9780930523299
-isbn_ebook: 
+isbn_ebook: 9781887378178
 region: latam
 
 amazon: https://www.amazon.com/Stories-Sergio-Ramirez-ebook/dp/B079P6KVZM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
