@@ -8,7 +8,7 @@ region: europe
 
 amazon: https://www.amazon.co.uk/Cup-Coffee-My-Interrogator-Chronicles-ebook/dp/B0722HY9JK/
 goodreads: https://www.goodreads.com/book/show/798620.A_Cup_of_Coffee_With_My_Interrogator
-cover: ./assets/images/cup-of-coffee.jpg
+cover: ./assets/images/Cup of Coffee Cover.jpg
 permalink: ./cup-of-coffee
 
 layout: book
