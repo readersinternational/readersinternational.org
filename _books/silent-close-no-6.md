@@ -13,7 +13,8 @@ amazon: https://www.amazon.com/Silent-Close-No-Monika-Maron/dp/0930523946/ref=sr
 goodreads: https://www.goodreads.com/book/show/896218.Silent_Close_No_6
 
 cover: ./assets/images/silent-close-no-6.jpg
-permalink: ./silent-close-no-6
+permalink: ./RESIZEDsilent-rev2-184pp-9780930523947-Perfect.jpg
+
 
 layout: book
 ---
