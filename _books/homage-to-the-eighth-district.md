@@ -9,7 +9,7 @@ region: europe
 amazon: https://www.amazon.co.uk/Homage-Eighth-District-Tales-Budapest-ebook/dp/B07H2MMTK2/
 goodreads: http://www.goodreads.com/book/show/2417970.Homage_to_the_Eighth_District
 
-cover: ./assets/images/homage-to-the-eighth-district.jpeg
+cover: ./assets/images/homage-to-the-eighth-district.jpg
 permalink: ./homage-to-the-eighth-district
 
 layout: book
