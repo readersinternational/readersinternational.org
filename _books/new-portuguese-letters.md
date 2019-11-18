@@ -1,7 +1,7 @@
 ---
 title: New Portuguese Letters
 author: Maria Isabel Barreno, Maria Teresa Horta, Maria Velho da Costa ("The Three Marias")
-translation: Translated from German by David Newton Marinelli
+translation: Translated from Portuguese by Helen R.Lane(prose sections) and Faith Gillespie with the assistance of Suzette Macedo(poetry)
 isbn_physical: 9780930523985
 isbn_ebook: 
 region: europe
