@@ -12,7 +12,7 @@ carousel_y: 82%;
 amazon: https://www.amazon.com/Silent-Close-No-Monika-Maron/dp/0930523946/ref=sr_1_1?keywords=monika+maron+silent+Close+No.+6&qid=1573244995&sr=8-1
 goodreads: https://www.goodreads.com/book/show/896218.Silent_Close_No_6
 
-cover: ./assets/images/RESIZEDsilent-rev2-184pp-9780930523947-Perfect.jpg
+cover: ./assets/images/resized-silent.jpg
 permalink: ./silent-close-no.-6
 
 
