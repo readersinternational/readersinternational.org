@@ -9,7 +9,7 @@ region: asia
 amazon: https://www.amazon.com/Awaiting-Trespass-Linda-Ty-Casper-ebook/dp/B00AHJN72W
 goodreads: https://www.goodreads.com/book/show/1954906.Awaiting_Trespass
 
-cover:  ./assets/images/
+cover:  ./assets/images/https://github.com/readersinternational/readersinternational.org/blob/master/assets/images/awaiting-trespass.jpg
 permalink: /awaiting-trespass
 
 layout: book
