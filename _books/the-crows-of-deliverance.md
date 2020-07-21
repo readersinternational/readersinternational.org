@@ -7,7 +7,7 @@ isbn_ebook:9781887378321
 region:asia
 
 amazon: 
-goodreads: 
+goodreads: https://www.goodreads.com/book/show/1658345.The_Crows_of_Deliverance
 
 cover:  ./assets/images/the-crows-of-deliverance.jpg
 permalink: /the-crows-of-deliverance
