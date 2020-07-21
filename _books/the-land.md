@@ -9,8 +9,8 @@ region:latam
 amazon: https://www.amazon.com/Land-Ant%C3%B4nio-Torres-ebook/dp/B08B46TTSN
 goodreads: https://www.goodreads.com/book/show/13074119-the-land?ac=1&from_search=true&qid=86P5umFZfL&rank=1
 
-cover:  ./assets/images/the-land.jpg
-permalink: /the-land
+cover:./assets/images/the-land.jpg
+permalink:/the-land
 
 layout:book
 ---
