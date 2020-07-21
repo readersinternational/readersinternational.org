@@ -22,5 +22,7 @@ today remains as Ty-Casper so powerfully describes it here.
 <br><br>
 *“Ty-Casper’s writing is hypnotic and elliptical...the horrors of the twilight years of the Marcos regime glow through the haze, making this book significant.”* KIRKUS REVIEWS
 <br><br>
+*“The work of this Filipino novelist writing in English makes much that is published in the English-speaking world look trivial. It is yet another example of the enrichment of English literature by a Third World culture… Not that the West will be allowed much chance to appreciate the feat. Unlike, say, Latin Americans, Filipino writers have no literary kudos outside the Philippines. They do not necessarily have much in their own country…"* SOUTH MAGAZINE
+<br><br>
 Cover image: *Search* by Filipino artist Benedicto Cabrera ("BenCab")
 ---
