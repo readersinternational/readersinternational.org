@@ -29,7 +29,4 @@ In *The Land*, Antônio Torres tells a universal story of tragic homecoming in a
 First published to acclaim in 1976 as the erratic military censorship was on the wane, *The Land* now ranks in Brazil as a modern classic, available in English only from Readers International.
 <br><br>
 Cover image and interior original woodcuts by Brazilian artist Djanira.
-
-
-
 ---
