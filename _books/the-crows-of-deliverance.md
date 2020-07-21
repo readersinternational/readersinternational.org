@@ -9,8 +9,8 @@ region:asia
 amazon: 
 goodreads: 
 
-cover:  ./assets/images/
-permalink: /...
+cover:  ./assets/images/the-crows-of-deliverance.jpg
+permalink: /the-crows-of-deliverance
 
 layout: book
 ---
