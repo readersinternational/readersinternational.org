@@ -9,7 +9,7 @@ region: asia
 amazon: 
 goodreads: https://www.goodreads.com/book/show/1615855.The_World_Elsewhere_and_Other_Stories 
 
-cover:  ./assets/images/
+cover:  ./assets/images/the-world-elsewhere.jpg
 permalink: ./the-world-elsewhere
 
 layout: book
