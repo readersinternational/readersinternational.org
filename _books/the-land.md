@@ -15,14 +15,14 @@ permalink: ./the-land
 layout: book
 ---
 
-*“An almost classic account of the notoriously poor area of its author’s birth.”* 
+*"An almost classic account of the notoriously poor area of its author’s birth."* 
 FINANCIAL TIMES
 <br><br>
-*“Tears at you like an early Buñuel movie”*		THE OBSERVER
+*"Tears at you like an early Buñuel movie"*		THE OBSERVER
 <br><br>
-“Vivid, moving, explosive…”		SAN FRANCISCO EXAMINER
+*"Vivid, moving, explosive…"		SAN FRANCISCO EXAMINER
 <br><br>
-*“Full of the unanswered questions of a third world country in transition.”*  PUBLISHERS' WEEKLY
+*"Full of the unanswered questions of a third world country in transition."*  PUBLISHERS' WEEKLY
 <br><br>
 
 In *The Land*, Antônio Torres tells a universal story of tragic homecoming in a style that owes much to the popular cultural forms of his birthplace in the Backlands (Sertão): snatches of song and prayer, rhyming jokes and fantasies, and the *literatura de cordel* (rope literature), broadsheets telling of juicy local gossip, murders, laments, ghostly apparitions, sold in the marketplace hanging from strings of twine. 
