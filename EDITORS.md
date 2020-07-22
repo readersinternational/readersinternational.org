@@ -20,10 +20,12 @@ This file includes instructions for adding new books to the site.
   goodreads: 
 
   cover:  ./assets/images/...
-  permalink: /...
+  permalink: ./...
 
   layout: book
   ---
+  
+  ... description of the book goes here ...
   ```
 
 * Fill in the details for the book - if something does not apply for a particular book then just leave that bit blank.
@@ -59,7 +61,9 @@ Top-tips for good cover images:
 1. Make sure that the file added for the book ends in `.md`.
 1. Make sure that the very first thing in the file for the book is `---` on its own line.  There *cannot* be any spaces or blank lines before the `---`.
 1. Make sure that there is another `---` at the end of the metadata section on its own line. There cannot be any spaces before or after it.
-1. Make sure that there are no spaces before any of the metadata items - e.g. `title`, `author` etc.  Each one must be on its own line without any spaces before it.
+1. There must not be a `---` after the description. You only need `---` around the metadata.
+1. Make sure that there are no spaces at the start of the line of any metadata items - e.g. `title`, `author` etc.  Each one must be on its own line without any spaces before it.
+1. Make sure that there is a space after the colon for a metadata item, e.g. "title: My Amazing Book".
 1. Make sure that `region` has a value of either `europe`, `africa`, `asia` or `latam`.
 
 ### The book has no image
