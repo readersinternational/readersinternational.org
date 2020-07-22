@@ -12,7 +12,7 @@ goodreads: https://www.goodreads.com/book/show/13074119-the-land?ac=1&from_searc
 cover: ./assets/images/the-land.jpg
 permalink: ./the-land
 
-layout:book
+layout: book
 ---
 
 *“An almost classic account of the notoriously poor area of its author’s birth.”* 
