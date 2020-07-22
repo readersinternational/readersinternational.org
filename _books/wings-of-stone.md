@@ -9,8 +9,8 @@ region:asia
 amazon:https://www.amazon.com/Wings-Stone-Linda-Ty-Casper-ebook/dp/B085VVZ4KL 
 goodreads:https://www.goodreads.com/book/show/2756809-wings-of-stone
 
-cover:./assets/images/wings-of-stone.jpg
-permalink:/wings-of-stone
+cover: ./assets/images/wings-of-stone.jpg
+permalink: ./wings-of-stone
 
 layout: book
 ---
@@ -25,4 +25,3 @@ today remains as Ty-Casper so powerfully describes it here.
 *“The work of this Filipino novelist writing in English makes much that is published in the English-speaking world look trivial. It is yet another example of the enrichment of English literature by a Third World culture… Not that the West will be allowed much chance to appreciate the feat. Unlike, say, Latin Americans, Filipino writers have no literary kudos outside the Philippines. They do not necessarily have much in their own country…"* SOUTH MAGAZINE
 <br><br>
 Cover image: *Search* by Filipino artist Benedicto Cabrera ("BenCab")
----
