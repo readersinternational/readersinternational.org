@@ -1,19 +1,20 @@
 ---
-title:Wings of Stone 
-author:Linda Ty-Casper
+title: Wings of Stone 
+author: Linda Ty-Casper
 translation: 
-isbn_physical:9780930523275 
-isbn_ebook:9781887378277
-region:asia
+isbn_physical: 9780930523275 
+isbn_ebook: 9781887378277
+region: asia
 
-amazon:https://www.amazon.com/Wings-Stone-Linda-Ty-Casper-ebook/dp/B085VVZ4KL 
-goodreads:https://www.goodreads.com/book/show/2756809-wings-of-stone
+amazon: https://www.amazon.com/Wings-Stone-Linda-Ty-Casper-ebook/dp/B085VVZ4KL 
+goodreads: https://www.goodreads.com/book/show/2756809-wings-of-stone
 
 cover: ./assets/images/wings-of-stone.jpg
 permalink: ./wings-of-stone
 
 layout: book
 ---
+
 Johnny Manalo, a Filipino who has lived for years in the United States,sometimes illegally, returns home for a brief visit during the last years of the Marcos dictatorship.
 From his landing on the Manila tarmac where opposition leader Benigno Aquino was gunned down, through jetlagged reunions with family and friends, Johnny finds himself an alien in his own country, unable to grasp the physical, moral, and spiritual corruption that -- from Marcos and his wife “Madame” on down --have consumed the nation’s soul.
 <br><br>
