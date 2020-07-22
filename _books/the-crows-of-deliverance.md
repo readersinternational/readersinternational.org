@@ -1,19 +1,20 @@
 ---
-title:The Crows of Deliverance
-author:Nirmal Verma
-translation:Translated from Hindi by Kuldip Singh and Jai Ratan
-isbn_physical:9780930523800
-isbn_ebook:9781887378321
-region:asia
+title: The Crows of Deliverance
+author: Nirmal Verma
+translation: Translated from Hindi by Kuldip Singh and Jai Ratan
+isbn_physical: 9780930523800
+isbn_ebook: 9781887378321
+region: asia
 
 amazon: 
 goodreads: https://www.goodreads.com/book/show/1658345.The_Crows_of_Deliverance
 
 cover:  ./assets/images/the-crows-of-deliverance.jpg
-permalink: /the-crows-of-deliverance
+permalink: ./the-crows-of-deliverance
 
 layout: book
 ---
+
 Nirmal Verma, winner of India's highest literary award, is acknowledged as one of India's most important modern writers and as the master of the short story in Hindi. Superb, subtle translations into English by Kuldip Singh and Jai Ratan.
 <br><br>
 *“His stories light up dark corners of the mind.”*  THE TIMES OF INDIA
@@ -30,4 +31,3 @@ NEW YORK TIMES BOOK REVIEW
 *“Poetic compression and an accumulation of succinct detail bring Verma’s India vividly to life.”*		THIRD WORLD QUARTERLY
 <br><br>
 Cover Image:*Widows of Vindravan (1987)*, painting by Indian artist Arpana Caur.
----
