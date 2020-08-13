@@ -6,7 +6,7 @@ isbn_physical: 9780930523800
 isbn_ebook: 9781887378321
 region: asia
 
-amazon: 
+amazon: https://www.amazon.co.uk/dp/B08FRV8BNT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 goodreads: https://www.goodreads.com/book/show/1658345.The_Crows_of_Deliverance
 
 cover:  ./assets/images/the-crows-of-deliverance.jpg
