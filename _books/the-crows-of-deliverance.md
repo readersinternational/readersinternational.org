@@ -30,4 +30,4 @@ NEW YORK TIMES BOOK REVIEW
 <br><br>
 *“Poetic compression and an accumulation of succinct detail bring Verma’s India vividly to life.”*		THIRD WORLD QUARTERLY
 <br><br>
-Cover Image:*Widows of Vindravan (1987)*, painting by Indian artist Arpana Caur.
+Cover Image:*Widows of Vrindavan (1987)*, painting by Indian artist Arpana Caur.
