@@ -10,8 +10,8 @@
   amazon: 
   goodreads: https://www.goodreads.com/book/show/309238.Fire_from_the_Ashes
 
-  cover: /assets/images/fire-from-the-ashes.jpg
-  permalink: /fire-from-the-ashes
+  cover: ./assets/images/fire-from-the-ashes.jpg
+  permalink: ./fire-from-the-ashes
 
   layout: book
   ---
@@ -24,7 +24,5 @@
  <br><br>
  These stories bring us the gift of great fiction -- they allow us to engage deeply with the past, but also to imagine its consequences in an uncertain future.
  <br><br>
- <br>"In compiling this anthology I have come to realize anew that the short stories included herein are not merely literary expressions, composed by looking back at the past, of what happened at Hiroshima and Nagasaki in the summer of 1945. They are also highly significant vehicles for thinking about the contemporary world over which hangs the awesome threat of vastly expanded nuclear arsenals. They are, that is, a means for stirring our imaginative powers to consider the fundamental conditions of human existence; they are relevant to the present and to our movement toward all tomorrows."<br>  From the *Introduction by Kenzaburō Ōe*
- <br><br>
- 
+ *"In compiling this anthology I have come to realize anew that the short stories included herein are not merely literary expressions, composed by looking back at the past, of what happened at Hiroshima and Nagasaki in the summer of 1945. They are also highly significant vehicles for thinking about the contemporary world over which hangs the awesome threat of vastly expanded nuclear arsenals. They are, that is, a means for stirring our imaginative powers to consider the fundamental conditions of human existence; they are relevant to the present and to our movement toward all tomorrows."*  From the Introduction by Kenzaburō Ōe
 
