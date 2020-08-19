@@ -10,12 +10,11 @@
   amazon: 
   goodreads: https://www.goodreads.com/book/show/309238.Fire_from_the_Ashes
 
-  cover: ./assets/images/fire-from-the-ashes.jpg
+  cover: ./assets/images/
   permalink: ./fire-from-the-ashes
 
   layout: book
   ---
-  
  To mark the 1985 fortieth anniversary of the A-bombs dropped on Hiroshima and Nagasaki, the distinguished members of the Japan P.E.N. Center led by Kenzaburō Ōe planned and Readers International helped issue this first ever collection in English showing the tragedy of the A-bombs through Japanese eyes. 
  <br><br>
  Now it is the 75th anniversary of the same catastrophic events, and the state of world tensions today demands a re-issue of this classic volume so that a new generation of readers can experience first hand those tragic events and imagine their consequences in Japanese society for generations after. 
