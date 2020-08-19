@@ -10,7 +10,7 @@
   amazon: 
   goodreads: https://www.goodreads.com/book/show/309238.Fire_from_the_Ashes
 
-  cover: ./assets/images/
+  cover: ./assets/images/fire-from-the-ashes.jpg
   permalink: ./fire-from-the-ashes
 
   layout: book
