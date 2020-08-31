@@ -1,6 +1,6 @@
 ---
-title: Fire from the Ashes
-subtitle: Japanese Writers on Hiroshima and Nagasaki
+title: Fire from the Ashes Japanese Writers on Hiroshima and Nagasaki
+subtitle: 
 editor: Kenzaburō Ōe (Nobel Prize 1994)
 translation: Translated from Japanese by Various translators
 isbn_physical: 9780930523107
@@ -26,3 +26,4 @@ These stories bring us the gift of great fiction -- they allow us to engage deep
 <br><br>
 *"In compiling this anthology I have come to realize anew that the short stories included herein are not merely literary expressions, composed by looking back at the past, of what happened at Hiroshima and Nagasaki in the summer of 1945. They are also highly significant vehicles for thinking about the contemporary world over which hangs the awesome threat of vastly expanded nuclear arsenals. They are, that is, a means for stirring our imaginative powers to consider the fundamental conditions of human existence; they are relevant to the present and to our movement toward all tomorrows."*  From the Introduction by Kenzaburō Ōe
 
+Cover image from *The Hiroshima Panels*(xi) by Iri and Toshi Maruki
