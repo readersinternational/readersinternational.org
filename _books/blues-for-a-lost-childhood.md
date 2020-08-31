@@ -1,5 +1,5 @@
 ---
-title: Blues for a Lost Childhood A Novel of Brazil
+title: Blues for a Lost Childhood  A Novel of Brazil
 author: Antônio Torres
 translation: Translated from Portuguese with an Introduction by John Parker 
 isbn_physical: 9780930523688
