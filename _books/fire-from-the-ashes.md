@@ -7,7 +7,7 @@ isbn_physical: 9780930523107
 isbn_ebook: 9781887378338
 region: asia
 
-amazon: 
+amazon: https://www.amazon.com/Fire-Ashes-Kenzaburo-Oe/dp/0930523105
 goodreads: https://www.goodreads.com/book/show/309238.Fire_from_the_Ashes
 
 cover: ./assets/images/fire-from-the-ashes.jpg
