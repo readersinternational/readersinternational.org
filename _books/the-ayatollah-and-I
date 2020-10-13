@@ -9,7 +9,7 @@ region:africa
 amazon: 
 goodreads:https://www.goodreads.com/book/show/498261.The_Ayatollah_and_I 
 
-cover:  ./assets/images/...
+cover:  ./assets/images/the-ayatollah-and-I.jpg
 permalink: ./...
 
 layout: book
