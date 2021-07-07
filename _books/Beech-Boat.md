@@ -26,6 +26,6 @@ Dreamlike, lyrical and philosophical, mixing memory, drama and deep feeling, thi
 <br><br>
 *“An excellent writer… She uses a pure and polyphonic language embedded within classic Polish expression, but at the same time always fresh.”*  JAN KOTT
 <br><br>
-Cover art of London by Claude Monet
+Cover art view of London by Claude Monet
 <br><br>
 ---
