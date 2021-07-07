@@ -24,7 +24,6 @@ Janina joins the literary and political ferment around *Wiadomości*, the émigr
 
 Dreamlike, lyrical and philosophical, mixing memory, drama and deep feeling, this prize-winning European women's memoir bring all these themes together in a convincing and powerful whole that has remained popular with Poles abroad and in the post-Solidarity nation at home, where Janina Kościałkowska's works were only able to be published when she was 77 years old.
 
-<br><br>
 *“An excellent writer… She uses a pure and polyphonic language embedded within classic Polish expression, but at the same time always fresh.”*  JAN KOTT
 <br><br>
 Cover art view of London by Claude Monet
