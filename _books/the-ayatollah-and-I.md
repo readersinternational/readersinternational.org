@@ -9,8 +9,8 @@ region: africa
 amazon: https://www.amazon.co.uk/dp/B08NXWVVQJ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 goodreads: https://www.goodreads.com/book/show/498261.The_Ayatollah_and_I 
 
-cover:./assets/images/the-ayatollah-and-I.jpg
-permalink:./the-ayatollah-and-I
+cover: ./assets/images/the-ayatollah-and-I.jpg
+permalink: ./the-ayatollah-and-I
 
 layout: book
 ---
