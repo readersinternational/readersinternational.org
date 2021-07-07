@@ -9,7 +9,7 @@ region: europe
 amazon: 
 goodreads: 
 
-cover: ./assets/images/Beech-Boat.jpg
+cover: ./assets/images/beech-boat.jpg
 permalink: ./Beech-Boat
 
 layout: book
