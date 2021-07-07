@@ -25,4 +25,3 @@ The philandering father, the sensitive yet sadistic older brother, the mother li
 <br><br>
 Cover art: *Mona Lisa, Age Twelve* by Fernando Botero
 <br><br>
----
