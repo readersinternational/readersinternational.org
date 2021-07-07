@@ -6,7 +6,7 @@ isbn_physical: 9780930523961
 isbn_ebook: 9780930523992
 region: europe
 
-amazon: 
+amazon: //https://www.amazon.co.uk/Beech-Boat-Memoir-Polish-Diaspora/dp/0930523962/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: 
 
 cover: ./assets/images/beech-boat.jpg
