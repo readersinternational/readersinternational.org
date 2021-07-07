@@ -26,4 +26,3 @@ Tamoda was conceived in a colonial prison, but his continuing adventures go beyo
 <br><br>
 Cover Art: *Carnival I* by Angolan Artist Fransisco D.Van-Dúnen
 <br><br>
----
