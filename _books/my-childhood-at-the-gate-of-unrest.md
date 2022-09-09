@@ -9,7 +9,7 @@ region: europe
 amazon: https://www.amazon.com/My-Childhood-at-Gate-Unrest-ebook/dp/B0B69S2FDN/ref=sr_1_1?crid=3KD1HNY4QT708&keywords=goma+my+childhood+at+the+gate+of+unrest+ebook&qid=1662721256&s=books&sprefix=goma+my+childhood+at+the+gate+of+unrest+ebook%2Cstripbooks-intl-ship%2C118&sr=1-1
 goodreads: https://www.goodreads.com/book/show/1028613.My_Childhood_At_The_Gate_Of_Unrest
 
-cover: ./assets/images/my-childhood-at-the-gate-of unrest.jpg
+cover: ./assets/images/my-childhood-at-the-gate-of-unrest.jpg
 permalink: ./my-childhood-at-the-gate-of-unrest
 
 layout: book
