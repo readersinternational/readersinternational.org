@@ -1,16 +1,16 @@
 ---
-title:My Childhood at the Gate of Unrest
-author:Paul Goma
-translation:Translated from Romanian by Angela Clark
-isbn_physical:9780930523749
-isbn_ebook:9781887378369
-region:europe
+title: My Childhood at the Gate of Unrest
+author: Paul Goma
+translation: Translated from Romanian by Angela Clark
+isbn_physical: 9780930523749
+isbn_ebook: 9781887378369
+region: europe
 
-amazon:https://www.amazon.com/My-Childhood-at-Gate-Unrest-ebook/dp/B0B69S2FDN/ref=sr_1_1?crid=3KD1HNY4QT708&keywords=goma+my+childhood+at+the+gate+of+unrest+ebook&qid=1662721256&s=books&sprefix=goma+my+childhood+at+the+gate+of+unrest+ebook%2Cstripbooks-intl-ship%2C118&sr=1-1
-goodreads:https://www.goodreads.com/book/show/1028613.My_Childhood_At_The_Gate_Of_Unrest
+amazon: https://www.amazon.com/My-Childhood-at-Gate-Unrest-ebook/dp/B0B69S2FDN/ref=sr_1_1?crid=3KD1HNY4QT708&keywords=goma+my+childhood+at+the+gate+of+unrest+ebook&qid=1662721256&s=books&sprefix=goma+my+childhood+at+the+gate+of+unrest+ebook%2Cstripbooks-intl-ship%2C118&sr=1-1
+goodreads: https://www.goodreads.com/book/show/1028613.My_Childhood_At_The_Gate_Of_Unrest
 
-cover:./assets/images/my-childhood-at-the-gate-of-unrest.jpg
-permalink:./my-childhood-at-the-gate-of-unrest
+cover: ./assets/images/my-childhood-at-the-gate-of-unrest.jpg
+permalink: ./my-childhood-at-the-gate-of-unrest
 
 layout: book
 ---
@@ -27,5 +27,4 @@ The boy’s father, a fiercely idealistic teacher but a bungling family man, is 
  “The novel’s fragmented structure, though initially confusing, beautifully conveys the jumbled feelings of a captive people whose stubborn misunderstanding of Stalinist collectivization makes them unsubduable.”
 THE PHILADELPHIA INQUIRER, USA
 <br><br>
-
 Cover image by Marc Chagall.
