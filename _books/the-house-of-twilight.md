@@ -5,8 +5,8 @@ translation: Various translators with an Introduction by Martin Holman
 isbn_physical: 9780930523602 (original pbk) 9781887378406 (new digital edition)
 isbn_ebook: 9781887378383
 region: asia
-amazon: 
-goodreads: 
+amazon: https://www.amazon.com/House-Twilight-Yun-Heung-gil-ebook/dp/B0B9Q5L1JP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+goodreads: https://www.goodreads.com/en/book/show/2426365.The_House_of_Twilight
 
 cover: ./assets/images/the-house-of-twilight.jpg
 permalink: ./the-house-of-twilight
