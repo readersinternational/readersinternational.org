@@ -6,7 +6,7 @@ isbn_physical: 9780930523398
 isbn_ebook: 9781887378413
 region: asia
 
-amazon: https://www.amazon.com/Gourmet-Other-Stories-Modern-China/dp/0930523385/ref=sr_1_1?crid=1B1TDV2EM2ZWO&keywords=Lu+wenfu+the+gourmet+and+other+stories&qid=1573245916&sprefix=books+by+jan+pie%2Caps%2C248&sr=8-1
+amazon: https://www.amazon.com/Gourmet-other-stories-modern-China-ebook/dp/B0BWHC2VGX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573245916&sr=8-1
 goodreads: https://www.goodreads.com/book/show/3363381-the-gourmet-and-other-stories-of-modern-china
 
 cover: ./assets/images/the-gourmet-and-other-stories-of-modern-china.jpg
