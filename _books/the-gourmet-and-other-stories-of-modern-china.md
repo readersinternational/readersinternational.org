@@ -3,7 +3,7 @@ title: The Gourmet and Other Stories of Modern China
 author: Lu Wenfu
 translation: 
 isbn_physical: 9780930523398
-isbn_ebook: 
+isbn_ebook: 9781887378413
 region: asia
 
 amazon: https://www.amazon.com/Gourmet-Other-Stories-Modern-China/dp/0930523385/ref=sr_1_1?crid=1B1TDV2EM2ZWO&keywords=Lu+wenfu+the+gourmet+and+other+stories&qid=1573245916&sprefix=books+by+jan+pie%2Caps%2C248&sr=8-1
