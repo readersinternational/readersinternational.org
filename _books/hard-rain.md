@@ -5,7 +5,7 @@ translation: Translated from Spanish by George Shivers with the author
 isbn_physical: 9780930523787
 isbn_ebook: 9781887378444
 region: latam
-amazon: https://www.amazon.co.uk/Hard-Rain-Ariel-Dorfman/dp/0930523784/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1573241756&sr=8-1
+amazon: https://www.amazon.com/Hard-Rain-Ariel-Dorfman-ebook/dp/B0CDNRHW7H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692287613&sr=1-1
 goodreads: https://www.goodreads.com/book/show/2339237.Hard_Rain
 cover:  ./assets/images/
 permalink: /hard-rain
