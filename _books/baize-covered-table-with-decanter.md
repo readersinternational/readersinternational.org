@@ -11,16 +11,18 @@ cover: assets/images/baize-covered-table-with-decanter.jpg
 permalink: baize-covered-table-with-decanter
 layout: book
 ---
+<br><br>
 Vladimir Makanin, was the great Russian chronicler of post-Soviet society, the new Russia that is seeking to expand and bringing new terror to the world today. With taut psychological depth, wry humor, caricature, and surreal fantasy, Makanin explores the roots of that society, including inside his own head. He starts with its culture of denunciation and interrogation, the so-called “Confidential Chat” around the traditional Baize-Covered Table with Decanter.
-
+<br><br>
 “It’s the Table that gives power to the people behind it,” says Makanin. “Take it away and they’re just ordinary folk, you and me, your best friends maybe. I’ve lived with these phantoms from childhood. Any Russian -- it’s an old Russian nightmare we’re dealing with, not just a Soviet one -- would recognize the situation. Having them rummage in your insides, being helpless, belittled. You needn’t have done anything to realize your helplessness, your guilt.”
-
+<br><br>
 “Glasnost revealed Makanin as one of the major writers of his generation”   *THE OBSERVER*, London
-
+<br><br>
 “Vladimir Makanin’s name belongs at the top of any list of Socialist, or now post-Socialist, Surrealists…. The aims of his fictional games are deadly serious – and that is finally what makes his writing so fresh and forceful.”                   *NEW YORK TIMES BOOK REVIEW*
-
+<br><br>
 “A lowering and frequently terrifying account – reminiscent of Nabokov’s ‘Invitation to a Beheading’ – of both the old Soviet bureaucracy and its more recent incarnation.... Makanin engages the reader artfully....”                 *THE NEW YORKER*
-
+<br><br>
 “[This] is as Russian as an old samovar or the wind howling across the steppes…. It ushers the reader into a world, and a way of dramatizing that world, which is exhilaratingly different from the usual home-grown fare. Arch Tait’s translation displays a relish for language, a skill in choosing words, which reveals the true artist.”                                                                         *THE SUNDAY TELEGRAPH*, London
-
+<br><br>
 Cover art *A Complex Presentiment*, 1928-32, by Kazimir Malevich
+<br><br>
