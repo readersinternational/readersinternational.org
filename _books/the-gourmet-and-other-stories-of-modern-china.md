@@ -9,7 +9,7 @@ region: asia
 amazon: https://www.amazon.com/Gourmet-other-stories-modern-China-ebook/dp/B0BWHC2VGX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1573245916&sr=8-1
 goodreads: https://www.goodreads.com/book/show/3363381-the-gourmet-and-other-stories-of-modern-china
 
-cover: ./assets/images/the-gourmet-and-other-stories-of-modern-china.jpg
+cover: ./assets/images/the-gourmet.jpg
 permalink: ./the-gourmet-and-other-stories-of-modern-china
 
 layout: book
