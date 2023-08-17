@@ -15,6 +15,6 @@ layout: book
 <br><br>
 *"Black humour, dizzying action, crisp, sparkling dialogue…in a completely different line from other Latin American writers"* ITALO CALVINO
 <br><br>
-This classic novel exposes the folly and horror of Argentina's "Dirty War". Osvaldo Soriano brilliantly emphasizes the farce underlying the terror. With *Winter Quarters*, its companion novel, Soriano builds a harrowing picture of a society in the grip of a bizarre and terrifying struggle. Both novels were best sellers in Argentina after the end of the brutal military dictatorship that ended in 1983, but Argentina and extremism is back in the news. 
+This classic novel exposes the folly and horror of Argentina's "Dirty War". Osvaldo Soriano brilliantly emphasizes the farce underlying the terror. With *Winter Quarters*, its companion novel, Soriano builds a harrowing picture of a society in the grip of a bizarre and terrifying struggle. Both novels were best sellers in Argentina after the end of the brutal military dictatorship that ended in 1983, but sadly Argentina and extremism are back in the news. 
 <br><br>
 Cover illustration by Argentinian Oscar Zarate.
