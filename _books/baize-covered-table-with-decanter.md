@@ -7,7 +7,7 @@ isbn_ebook: 9781887378420
 region: europe
 amazon: https://www.amazon.com/Baize-Covered-Table-Decanter-Vladimir-Makanin-ebook/dp/B0C382KJ8L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: https://www.goodreads.com/book/show/423814.Baize_Covered_Table_with_Decanter
-cover: assets/images/RESIZED-baize-covered-table-with-decanter.jpg
+cover: assets/images/baize-covered-table-with-decanter.jpg.jpg
 permalink: baize-covered-table-with-decanter
 layout: book
 ---
