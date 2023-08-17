@@ -5,7 +5,7 @@ translation: Translated from Spanish by Nick Caistor
 isbn_physical: 9780930523183
 isbn_ebook: 9781887378437
 region: latam
-amazon: https://www.amazon.co.uk/Funny-Dirty-Little-War-ebook/dp/B0CF5GDG4Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+amazon: https://www.amazon.com/Funny-Dirty-Little-War-ebook/dp/B0CF5GDG4Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: http://www.goodreads.com/book/show/433730.Funny_Dirty_Little_War
 cover: ./assets/images/a-funny-dirty-little-war.jpg
 permalink: ./a-funny-dirty-little-war
