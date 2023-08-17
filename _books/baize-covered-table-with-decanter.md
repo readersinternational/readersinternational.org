@@ -9,7 +9,7 @@ region: europe
 amazon:
 goodreads:
 
-cover:  ./assets/images/...
-permalink: ./...
+cover: assets/images/RESIZED-cover_baize-covered-table-with-decanter_6fe4.jpg
+permalink: baize-covered-table-with-decanter
 layout: book
 ---
