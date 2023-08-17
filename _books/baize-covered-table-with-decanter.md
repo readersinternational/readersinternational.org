@@ -4,10 +4,10 @@ author: Vladimir Makanin
 translation: Translated from Russian by Arch Tait
 isbn_physical: 9780930523664
 isbn_ebook: 9781887378420
-region:europe
-amazon:https://www.amazon.com/Baize-Covered-Table-Decanter-Vladimir-Makanin-ebook/dp/B0C382KJ8L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
-goodreads:https://www.goodreads.com/book/show/423814.Baize_Covered_Table_with_Decanter
-cover: assets/images/RESIZED-cover_baize-covered-table-with-decanter_6fe4.jpg
+region: europe
+amazon: https://www.amazon.com/Baize-Covered-Table-Decanter-Vladimir-Makanin-ebook/dp/B0C382KJ8L/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+goodreads: https://www.goodreads.com/book/show/423814.Baize_Covered_Table_with_Decanter
+cover: assets/images/baize-covered-table-with-decanter.jpg
 permalink: baize-covered-table-with-decanter
 layout: book
 ---
