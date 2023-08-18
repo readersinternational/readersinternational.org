@@ -1,7 +1,6 @@
 ---
 title: Fire from the Ashes Japanese Writers on Hiroshima and Nagasaki
-subtitle: 
-editor: Kenzaburō Ōe (Nobel Prize 1994)
+author: Kenzaburō Ōe (Nobel Prize 1994) et al.
 translation: Translated from Japanese by Various translators
 isbn_physical: 9780930523107
 isbn_ebook: 9781887378338
