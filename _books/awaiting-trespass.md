@@ -6,7 +6,7 @@ isbn_physical: 9780930523121
 isbn_ebook: 9781887378284
 region: asia
 
-amazon: https://www.amazon.com/Awaiting-Trespass-Linda-Ty-Casper-ebook/dp/B00AHJN72W
+amazon: https://www.amazon.com/Awaiting-Trespass-Linda-TY-Caper/dp/0930523121/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=#detailBullets_feature_div
 goodreads: https://www.goodreads.com/book/show/1954906.Awaiting_Trespass
 
 cover:  ./assets/images/RESIZED%20cover_awaiting-trespass_6c6a.jpg
