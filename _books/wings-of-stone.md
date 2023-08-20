@@ -6,7 +6,7 @@ isbn_physical: 9780930523275
 isbn_ebook: 9781887378277
 region: asia
 
-amazon: https://www.amazon.com/Wings-Stone-Linda-Ty-Casper-ebook/dp/B085VVZ4KL 
+amazon: https://www.amazon.com/Wings-Stone-Linda-Ty-Casper/dp/093052327X/ref=monarch_sidesheet
 goodreads: https://www.goodreads.com/book/show/2756809-wings-of-stone
 
 cover: ./assets/images/wings-of-stone.jpg
