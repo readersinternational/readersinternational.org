@@ -9,7 +9,7 @@ region: europe
 amazon: https://www.amazon.ca/Portuguese-Letters-Maria-Isabel-Barreno/dp/0930523989
 goodreads: https://www.goodreads.com/book/show/1863537.New_Portuguese_Letters
 
-cover: ./assets/images/
+cover: ./assets/images/new-portuguese-letters.jpg
 permalink: ./new-portuguese-letters
 
 layout: book
