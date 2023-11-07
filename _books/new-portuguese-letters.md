@@ -3,10 +3,10 @@ title: New Portuguese Letters
 author: Maria Isabel Barreno, Maria Teresa Horta, Maria Velho da Costa ("The Three Marias")
 translation: Translated from Portuguese by Helen R. Lane
 isbn_physical: 9780930523985
-isbn_ebook: 9781887378314
+isbn_ebook: 
 region: europe
 
-amazon: https://www.amazon.co.uk/Portuguese-Letters-Maria-Isabel-Barreno/dp/0930523989
+amazon: https://www.amazon.com/New-Portuguese-Letters-Maria-Barreno/dp/0930523989/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: https://www.goodreads.com/book/show/1863537.New_Portuguese_Letters
 
 cover: ./assets/images/new-portuguese-letters.jpg
