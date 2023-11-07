@@ -6,7 +6,7 @@ isbn_physical: 9780930523985
 isbn_ebook: 9781887378314
 region: europe
 
-amazon: https://www.amazon.ca/Portuguese-Letters-Maria-Isabel-Barreno/dp/0930523989
+amazon: https://www.amazon.co.uk/Portuguese-Letters-Maria-Isabel-Barreno/dp/0930523989
 goodreads: https://www.goodreads.com/book/show/1863537.New_Portuguese_Letters
 
 cover: ./assets/images/new-portuguese-letters.jpg
