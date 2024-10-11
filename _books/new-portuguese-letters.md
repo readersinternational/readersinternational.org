@@ -9,8 +9,8 @@ region: europe
 amazon: https://www.amazon.com/New-Portuguese-Letters-Maria-Barreno/dp/0930523989/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 goodreads: https://www.goodreads.com/book/show/1863537.New_Portuguese_Letters
 
-cover:./assets/images/new-portuguese-letters.jpg
-permalink:./new-portuguese-letters
+cover: ./assets/images/new-portuguese-letters.jpg
+permalink: ./new-portuguese-letters
 
 layout: book
 ---
