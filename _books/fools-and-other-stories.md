@@ -6,7 +6,7 @@ isbn_physical: 9780930523206
 isbn_ebook: 9781887378482
 region: africa
 
-amazon: (https://www.amazon.com/Fools-Other-Stories-Njabulo-Ndebele/dp/0930523202/ref=tmm_pap_swatch_0_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.QdYBL1OmK8Qwwib5LqfjMujCV4InhDiQegpjzcUti-FM6ctxa150Fwhlg5lpr-w4O94mXmYZrJL7zM4IKkioCIjVJI8A6LKEjyncDizTitDUm52c8DhEerMKJIx3_vr-a77SdBD-kO1qmLIED8kWHgnhhjd4gIIX08jci7uStJsgRJb4vxsb9DHK5epoltcDlrum-GHQj46EO3iXziGSqMlkuRDw5EjVVo0iEVHgTmQ.qXOnJMbaLxge3AfV8skFj--JMgdM9laZhhijp4q8sM0&qid=1732292459&sr=1-2)
+amazon: https://www.amazon.com/gp/product/B0DD5ND1KT/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20
 goodreads: http://www.goodreads.com/book/show/1247701.Fools_And_Other_Stories
 
 cover: ./assets/images/fools-and-other-stories.JPG
