@@ -1,7 +1,7 @@
 ---
 title: The Nine Guardians
 author: Rosario Castellanos
-translation: Translated from Spanish with a Preface by Irene Nicholson
+translation: Translated from Spanish with Preface by Irene Nicholson
 isbn_physical: 9780930523909
 isbn_ebook: 
 region: latam
