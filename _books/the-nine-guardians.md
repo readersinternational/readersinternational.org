@@ -21,7 +21,7 @@ Castellanos’ narrator, a seven-year-old girl, watches wide-eyed as the old ord
 <br><br>
 *"Reminiscent of the works of Diego Rivera or José Clemente Orozco in its sweeping blend of social realism and fabulism.”* RAIN TAXI book review
 <br><br>
-*“In *The Nine Guardians*, *Rosario Castellanos, acknowledged as one of Mexico’s most important writers of the twentieth century, gives us a new world that is fascinating and lovely, haunting and dangerous.”* SMALL PRESS REVIEW
+*“In The Nine Guardians, Rosario Castellanos, acknowledged as one of Mexico’s most important writers of the twentieth century, gives us a new world that is fascinating and lovely, haunting and dangerous.”* SMALL PRESS REVIEW
 <br><br>
 *“Gripping reading, giving a sense of the scenery and tensions that surrounded one of the most important economic and social shifts of post-revolutionary Mexico.”*
 SAN FRANCISCO CHRONICLE
