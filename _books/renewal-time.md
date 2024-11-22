@@ -20,7 +20,7 @@ His power as a storyteller remained constant. These stories can give readers out
  <br> <br>
 This U.S. digital edition celebrates thirty years since the first post-apartheid election of 1994 in South Africa.
 <br> <br>
-*“Incisively dramatizes the human complexities of apartheid … a valuable collection.”  KIRKUS REVIEWS
+*“Incisively dramatizes the human complexities of apartheid … a valuable collection.”*  KIRKUS REVIEWS
 <br> <br>
 
 <br><br>
