@@ -9,7 +9,7 @@ region: africa
 amazon: https://www.amazon.co.uk/Fools-Other-Stories-Njabulo-Ndebele/dp/0930523202/ref=sr_1_1?keywords=ndebele+fools+and+other+stories&qid=1573240987&s=books&sr=1-1
 goodreads: http://www.goodreads.com/book/show/1247701.Fools_And_Other_Stories
 
-cover: ./assets/images/fools-and-other-stories.jpg
+cover: ./assets/images/fools-and-other-stories.JPG
 permalink: ./fools-and-other-stories
 
 layout: book
