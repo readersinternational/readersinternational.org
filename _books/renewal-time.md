@@ -9,7 +9,7 @@ region: africa
 amazon: https://www.amazon.com/Renewal-Time-Stories-Eskia-Mphahlele-ebook/dp/B0DD5F77G8/ref=sr_1_1?crid=2Z471AWIG9O7Y&dib=eyJ2IjoiMSJ9.z8LB3xiE-qpbbfWGkXVP-g.9soPm8MtP5Jl85LAu1AVTaTNsBUuhMf4Lc5_v9VNpUM&dib_tag=se&keywords=BOOKS+Mphahlele+Renewal+Time&qid=1732288491&sprefix=books+mphahlele+renewal+time%2Caps%2C159&sr=8-1
 goodreads: https://www.goodreads.com/en/book/show/509208.Renewal_Time
 
-cover: ./assets/images/renewal-time.JPG
+cover: ./assets/images/renewal-time.jpg
 permalink: ./renewal-time
 
 layout: book
