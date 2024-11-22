@@ -25,5 +25,4 @@ Castellanos’ narrator, a seven-year-old girl, watches wide-eyed as the old ord
 <br><br>
 *“Gripping reading, giving a sense of the scenery and tensions that surrounded one of the most important economic and social shifts of post-revolutionary Mexico.”*
  SAN FRANCISCO CHRONICLE
-<br><br>
 Cover image by Mexican artist José Chavez Morado.
